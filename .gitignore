@@ -1,0 +1,14 @@
+# Virtualenv
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Dados gerados
+data/sessions/
